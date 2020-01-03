@@ -1,14 +1,29 @@
 {
     "name": "bode-locke/laravel-rotessa",
     "description": "A Laravel package to use the Rotessa direct debit API.",
+    "keywords": [
+        "framework",
+        "http",
+        "rest",
+        "web service",
+        "curl",
+        "client",
+        "HTTP client",
+        "Rotessa",
+        "direct debit",
+        "laravel"
+    ],
     "require": {
         "guzzle/guzzle": "^3.9"
     },
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "Benjamin Delaloi",
             "email": "b.delaloi@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "preferred-install": "dist"
+    }
 }

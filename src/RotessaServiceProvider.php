@@ -2,7 +2,7 @@
 
 namespace BodeLocke\Rotessa;
 
-use App;
+//use App;
 use Illuminate\Support\ServiceProvider;
 
 class RotessaServiceProvider extends ServiceProvider
