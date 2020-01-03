@@ -13,9 +13,6 @@
         "direct debit",
         "laravel"
     ],
-    "require": {
-        "guzzle/guzzle": "^3.9"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -25,5 +22,8 @@
     ],
     "config": {
         "preferred-install": "dist"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
     }
 }
