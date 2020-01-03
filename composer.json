@@ -1,5 +1,6 @@
 {
-    "name": "BodeLocke/Rotessa",
+    "name": "bode-locke/laravel-rotessa",
+    "description": "A Laravel package to use the Rotessa direct debit API.",
     "require": {
         "guzzle/guzzle": "^3.9"
     },
